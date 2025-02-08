@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: inter;
+    src: url(../public/font/Inter_18pt-Light.ttf);
+}
+
+@font-face {
+    font-family: bebasNeue;
+    src: url(../public/font/BebasNeue-Regular.ttf);
+}
